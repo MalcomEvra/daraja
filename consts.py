@@ -1,0 +1,7 @@
+business_shortCode="174379"
+phone_number="254714050531"
+lipa_na_mpesa_passkey="bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919"
+consumer_key="xeJWmldTGh0RG4G0Wbdw9uRANJir8LiW"
+consumer_secret="KGI5CRTkDaPC2nB9"
+shortcode="600610"
+test_msisdn="254708374149"
